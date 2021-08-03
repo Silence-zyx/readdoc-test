@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to BookTest's documentation!-hook-test
-====================================
+===============================================
 
 .. toctree::
    :maxdepth: 2
