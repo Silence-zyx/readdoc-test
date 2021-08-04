@@ -12,11 +12,4 @@ This is a test
 
    Chapter1/index
    about
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   
