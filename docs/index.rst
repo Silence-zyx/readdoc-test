@@ -10,6 +10,7 @@ This is a test
    :maxdepth: 2
    :caption: Contents:
 
+   Chapter1/index
    about
 
 
