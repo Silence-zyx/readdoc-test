@@ -10,6 +10,22 @@ This is a test
    :maxdepth: 2
    :caption: Contents:
 
+Locat
+================
+For example:
+
+.. code-block ::
+
+   contract Demo { // contract field identifier
+
+    final address _owner; // local variables
+    mapping(address => uint256) pubBalances; // mapping entries
+    	function pubBalanceOf(address owner) public view returns (uint256) { // function arguments
+    	    return pubBalances[owner];
+    	}
+    }
+
+
    Chapter1/index
    about
    
