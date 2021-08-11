@@ -25,6 +25,7 @@ For example:
 
     final address _owner; // local variables
     mapping(address => uint256) pubBalances; // mapping entries
+    uint256@me zxc;
     	function pubBalanceOf(address owner) public view returns (uint256) { // function arguments
     	    return pubBalances[owner];
     	}
